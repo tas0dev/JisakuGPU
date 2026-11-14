@@ -92,157 +92,13 @@
 					)
 				)
 			)
-			(pin output line
-				(at -13.97 -3.81 0)
-				(length 2.54)
-				(name "TX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -8.89 0)
-				(length 2.54)
-				(name "RX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -13.97 0)
-				(length 2.54)
-				(name "REFCLK+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 -6.35 0)
-				(length 2.54)
-				(name "TX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -11.43 0)
-				(length 2.54)
-				(name "RX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -16.51 0)
-				(length 2.54)
-				(name "REFCLK-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -21.59 0)
-				(length 2.54)
-				(name "RST#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -19.05 0)
-				(length 2.54)
-				(name "REXT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "D11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(symbol "SM750GX000000-AC_2_0"
 			(unit_name "DDR Memory")
 			(pin bidirectional line
 				(at 5.08 -55.88 180)
 				(length 2.54)
-				(name "MD9"
+				(name "MD22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -260,7 +116,7 @@
 			(pin bidirectional line
 				(at 5.08 -50.8 180)
 				(length 2.54)
-				(name "MD11"
+				(name "MD20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -278,7 +134,7 @@
 			(pin bidirectional line
 				(at 5.08 -45.72 180)
 				(length 2.54)
-				(name "MD13"
+				(name "MD18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -296,7 +152,7 @@
 			(pin bidirectional line
 				(at 5.08 -40.64 180)
 				(length 2.54)
-				(name "MD15"
+				(name "MD16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -314,7 +170,7 @@
 			(pin bidirectional line
 				(at 5.08 -10.16 180)
 				(length 2.54)
-				(name "MD27"
+				(name "MD4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -332,7 +188,7 @@
 			(pin bidirectional line
 				(at 5.08 -5.08 180)
 				(length 2.54)
-				(name "MD29"
+				(name "MD2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -350,7 +206,7 @@
 			(pin bidirectional line
 				(at 5.08 -58.42 180)
 				(length 2.54)
-				(name "MD8"
+				(name "MD23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -368,7 +224,7 @@
 			(pin bidirectional line
 				(at 5.08 -53.34 180)
 				(length 2.54)
-				(name "MD10"
+				(name "MD21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -386,7 +242,7 @@
 			(pin bidirectional line
 				(at 5.08 -48.26 180)
 				(length 2.54)
-				(name "MD12"
+				(name "MD19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -404,7 +260,7 @@
 			(pin bidirectional line
 				(at 5.08 -43.18 180)
 				(length 2.54)
-				(name "MD14"
+				(name "MD17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -422,7 +278,7 @@
 			(pin bidirectional line
 				(at 5.08 -12.7 180)
 				(length 2.54)
-				(name "MD26"
+				(name "MD5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -440,7 +296,7 @@
 			(pin bidirectional line
 				(at 5.08 -7.62 180)
 				(length 2.54)
-				(name "MD28"
+				(name "MD3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -458,7 +314,7 @@
 			(pin bidirectional line
 				(at 5.08 78.74 180)
 				(length 2.54)
-				(name "MD62"
+				(name "MD33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -476,7 +332,7 @@
 			(pin bidirectional line
 				(at 5.08 81.28 180)
 				(length 2.54)
-				(name "MD63"
+				(name "MD32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -494,7 +350,7 @@
 			(pin output line
 				(at -22.86 20.32 0)
 				(length 2.54)
-				(name "DQS5#"
+				(name "DQS2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -512,7 +368,7 @@
 			(pin output line
 				(at -22.86 0 0)
 				(length 2.54)
-				(name "DQM5#"
+				(name "DQM2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -530,7 +386,7 @@
 			(pin bidirectional line
 				(at 5.08 -15.24 180)
 				(length 2.54)
-				(name "MD25"
+				(name "MD6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -548,7 +404,7 @@
 			(pin output line
 				(at -22.86 5.08 0)
 				(length 2.54)
-				(name "DQM7#"
+				(name "DQM0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -566,7 +422,7 @@
 			(pin bidirectional line
 				(at 5.08 0 180)
 				(length 2.54)
-				(name "MD31"
+				(name "MD0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -584,7 +440,7 @@
 			(pin bidirectional line
 				(at 5.08 73.66 180)
 				(length 2.54)
-				(name "MD60"
+				(name "MD35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -602,7 +458,7 @@
 			(pin bidirectional line
 				(at 5.08 76.2 180)
 				(length 2.54)
-				(name "MD61"
+				(name "MD34"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -620,7 +476,7 @@
 			(pin bidirectional line
 				(at 5.08 71.12 180)
 				(length 2.54)
-				(name "MD59"
+				(name "MD36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -638,7 +494,7 @@
 			(pin bidirectional line
 				(at 5.08 68.58 180)
 				(length 2.54)
-				(name "MD58"
+				(name "MD37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -656,7 +512,7 @@
 			(pin bidirectional line
 				(at 5.08 -17.78 180)
 				(length 2.54)
-				(name "MD24"
+				(name "MD7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -674,7 +530,7 @@
 			(pin output line
 				(at -22.86 25.4 0)
 				(length 2.54)
-				(name "DQS7#"
+				(name "DQS0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -692,7 +548,7 @@
 			(pin bidirectional line
 				(at 5.08 -2.54 180)
 				(length 2.54)
-				(name "MD30"
+				(name "MD1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -710,7 +566,7 @@
 			(pin output line
 				(at -22.86 15.24 0)
 				(length 2.54)
-				(name "DQS3#"
+				(name "DQS4#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -728,7 +584,7 @@
 			(pin output line
 				(at -22.86 -5.08 0)
 				(length 2.54)
-				(name "DQM3#"
+				(name "DQM4#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -746,7 +602,7 @@
 			(pin bidirectional line
 				(at 5.08 66.04 180)
 				(length 2.54)
-				(name "MD57"
+				(name "MD38"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -764,7 +620,7 @@
 			(pin bidirectional line
 				(at 5.08 63.5 180)
 				(length 2.54)
-				(name "MD56"
+				(name "MD39"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -782,7 +638,7 @@
 			(pin bidirectional line
 				(at 5.08 55.88 180)
 				(length 2.54)
-				(name "MD53"
+				(name "MD42"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -800,7 +656,7 @@
 			(pin bidirectional line
 				(at 5.08 58.42 180)
 				(length 2.54)
-				(name "MD54"
+				(name "MD41"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -818,7 +674,7 @@
 			(pin bidirectional line
 				(at 5.08 60.96 180)
 				(length 2.54)
-				(name "MD55"
+				(name "MD40"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -836,7 +692,7 @@
 			(pin output line
 				(at -22.86 12.7 0)
 				(length 2.54)
-				(name "DQS2#"
+				(name "DQS5#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -854,7 +710,7 @@
 			(pin output line
 				(at -22.86 -7.62 0)
 				(length 2.54)
-				(name "DQM2#"
+				(name "DQM5#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -872,7 +728,7 @@
 			(pin bidirectional line
 				(at 5.08 50.8 180)
 				(length 2.54)
-				(name "MD51"
+				(name "MD44"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -890,7 +746,7 @@
 			(pin bidirectional line
 				(at 5.08 53.34 180)
 				(length 2.54)
-				(name "MD52"
+				(name "MD43"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -908,7 +764,7 @@
 			(pin input line
 				(at -22.86 63.5 0)
 				(length 2.54)
-				(name "MVREF1"
+				(name "MVREF0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -926,7 +782,7 @@
 			(pin bidirectional line
 				(at 5.08 43.18 180)
 				(length 2.54)
-				(name "MD48"
+				(name "MD47"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -944,7 +800,7 @@
 			(pin bidirectional line
 				(at 5.08 45.72 180)
 				(length 2.54)
-				(name "MD49"
+				(name "MD46"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -962,7 +818,7 @@
 			(pin bidirectional line
 				(at 5.08 48.26 180)
 				(length 2.54)
-				(name "MD50"
+				(name "MD45"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1016,7 +872,7 @@
 			(pin output line
 				(at -22.86 -17.78 0)
 				(length 2.54)
-				(name "BA0"
+				(name "BA1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1034,7 +890,7 @@
 			(pin output line
 				(at -22.86 -15.24 0)
 				(length 2.54)
-				(name "BA1"
+				(name "BA0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1142,7 +998,7 @@
 			(pin output line
 				(at -22.86 55.88 0)
 				(length 2.54)
-				(name "MA11"
+				(name "MA1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1160,7 +1016,7 @@
 			(pin output line
 				(at -22.86 58.42 0)
 				(length 2.54)
-				(name "MA12"
+				(name "MA0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1178,7 +1034,7 @@
 			(pin output line
 				(at -22.86 45.72 0)
 				(length 2.54)
-				(name "MA7"
+				(name "MA5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1196,7 +1052,7 @@
 			(pin output line
 				(at -22.86 48.26 0)
 				(length 2.54)
-				(name "MA8"
+				(name "MA4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1214,7 +1070,7 @@
 			(pin output line
 				(at -22.86 50.8 0)
 				(length 2.54)
-				(name "MA9"
+				(name "MA3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1232,7 +1088,7 @@
 			(pin output line
 				(at -22.86 53.34 0)
 				(length 2.54)
-				(name "MA10"
+				(name "MA2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1250,7 +1106,7 @@
 			(pin output line
 				(at -22.86 35.56 0)
 				(length 2.54)
-				(name "MA3"
+				(name "MA9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1268,7 +1124,7 @@
 			(pin output line
 				(at -22.86 38.1 0)
 				(length 2.54)
-				(name "MA4"
+				(name "MA8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1286,7 +1142,7 @@
 			(pin output line
 				(at -22.86 40.64 0)
 				(length 2.54)
-				(name "MA5"
+				(name "MA7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1322,7 +1178,7 @@
 			(pin input line
 				(at -22.86 60.96 0)
 				(length 2.54)
-				(name "MVREF0"
+				(name "MVREF1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1340,7 +1196,7 @@
 			(pin output line
 				(at -22.86 27.94 0)
 				(length 2.54)
-				(name "MA0"
+				(name "MA12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1358,7 +1214,7 @@
 			(pin output line
 				(at -22.86 30.48 0)
 				(length 2.54)
-				(name "MA1"
+				(name "MA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1376,7 +1232,7 @@
 			(pin output line
 				(at -22.86 33.02 0)
 				(length 2.54)
-				(name "MA2"
+				(name "MA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1394,7 +1250,7 @@
 			(pin output line
 				(at -22.86 -10.16 0)
 				(length 2.54)
-				(name "DQM1#"
+				(name "DQM6#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1412,7 +1268,7 @@
 			(pin bidirectional line
 				(at 5.08 38.1 180)
 				(length 2.54)
-				(name "MD46"
+				(name "MD49"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1430,7 +1286,7 @@
 			(pin bidirectional line
 				(at 5.08 40.64 180)
 				(length 2.54)
-				(name "MD47"
+				(name "MD48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1448,7 +1304,7 @@
 			(pin output line
 				(at -22.86 10.16 0)
 				(length 2.54)
-				(name "DQS1#"
+				(name "DQS6#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1466,7 +1322,7 @@
 			(pin bidirectional line
 				(at 5.08 30.48 180)
 				(length 2.54)
-				(name "MD43"
+				(name "MD52"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1484,7 +1340,7 @@
 			(pin bidirectional line
 				(at 5.08 33.02 180)
 				(length 2.54)
-				(name "MD44"
+				(name "MD51"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1502,7 +1358,7 @@
 			(pin bidirectional line
 				(at 5.08 35.56 180)
 				(length 2.54)
-				(name "MD45"
+				(name "MD50"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1520,7 +1376,7 @@
 			(pin bidirectional line
 				(at 5.08 -20.32 180)
 				(length 2.54)
-				(name "MD23"
+				(name "MD8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1538,7 +1394,7 @@
 			(pin bidirectional line
 				(at 5.08 -27.94 180)
 				(length 2.54)
-				(name "MD20"
+				(name "MD11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1556,7 +1412,7 @@
 			(pin bidirectional line
 				(at 5.08 -60.96 180)
 				(length 2.54)
-				(name "MD7"
+				(name "MD24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1574,7 +1430,7 @@
 			(pin bidirectional line
 				(at 5.08 -66.04 180)
 				(length 2.54)
-				(name "MD5"
+				(name "MD26"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1592,7 +1448,7 @@
 			(pin bidirectional line
 				(at 5.08 22.86 180)
 				(length 2.54)
-				(name "MD40"
+				(name "MD55"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1610,7 +1466,7 @@
 			(pin bidirectional line
 				(at 5.08 25.4 180)
 				(length 2.54)
-				(name "MD41"
+				(name "MD54"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1628,7 +1484,7 @@
 			(pin bidirectional line
 				(at 5.08 27.94 180)
 				(length 2.54)
-				(name "MD42"
+				(name "MD53"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1646,7 +1502,7 @@
 			(pin bidirectional line
 				(at 5.08 10.16 180)
 				(length 2.54)
-				(name "MD35"
+				(name "MD60"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1664,7 +1520,7 @@
 			(pin bidirectional line
 				(at 5.08 -22.86 180)
 				(length 2.54)
-				(name "MD22"
+				(name "MD9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1682,7 +1538,7 @@
 			(pin bidirectional line
 				(at 5.08 -30.48 180)
 				(length 2.54)
-				(name "MD19"
+				(name "MD12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1700,7 +1556,7 @@
 			(pin bidirectional line
 				(at 5.08 -33.02 180)
 				(length 2.54)
-				(name "MD18"
+				(name "MD13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1718,7 +1574,7 @@
 			(pin bidirectional line
 				(at 5.08 -63.5 180)
 				(length 2.54)
-				(name "MD6"
+				(name "MD25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1736,7 +1592,7 @@
 			(pin bidirectional line
 				(at 5.08 -68.58 180)
 				(length 2.54)
-				(name "MD4"
+				(name "MD27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1754,7 +1610,7 @@
 			(pin bidirectional line
 				(at 5.08 17.78 180)
 				(length 2.54)
-				(name "MD38"
+				(name "MD57"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1772,7 +1628,7 @@
 			(pin bidirectional line
 				(at 5.08 20.32 180)
 				(length 2.54)
-				(name "MD39"
+				(name "MD56"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1790,7 +1646,7 @@
 			(pin output line
 				(at -22.86 -12.7 0)
 				(length 2.54)
-				(name "DQM0#"
+				(name "DQM7#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1808,7 +1664,7 @@
 			(pin bidirectional line
 				(at 5.08 7.62 180)
 				(length 2.54)
-				(name "MD34"
+				(name "MD61"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1826,7 +1682,7 @@
 			(pin bidirectional line
 				(at 5.08 -25.4 180)
 				(length 2.54)
-				(name "MD21"
+				(name "MD10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1844,7 +1700,7 @@
 			(pin output line
 				(at -22.86 2.54 0)
 				(length 2.54)
-				(name "DQM6#"
+				(name "DQM1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1862,7 +1718,7 @@
 			(pin bidirectional line
 				(at 5.08 -35.56 180)
 				(length 2.54)
-				(name "MD17"
+				(name "MD14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1880,7 +1736,7 @@
 			(pin output line
 				(at -22.86 -2.54 0)
 				(length 2.54)
-				(name "DQM4#"
+				(name "DQM3#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1898,7 +1754,7 @@
 			(pin bidirectional line
 				(at 5.08 -71.12 180)
 				(length 2.54)
-				(name "MD3"
+				(name "MD28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1916,7 +1772,7 @@
 			(pin bidirectional line
 				(at 5.08 -76.2 180)
 				(length 2.54)
-				(name "MD1"
+				(name "MD30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1934,7 +1790,7 @@
 			(pin bidirectional line
 				(at 5.08 12.7 180)
 				(length 2.54)
-				(name "MD36"
+				(name "MD59"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1952,7 +1808,7 @@
 			(pin bidirectional line
 				(at 5.08 15.24 180)
 				(length 2.54)
-				(name "MD37"
+				(name "MD58"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1970,7 +1826,7 @@
 			(pin output line
 				(at -22.86 7.62 0)
 				(length 2.54)
-				(name "DQS0#"
+				(name "DQS7#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1988,7 +1844,7 @@
 			(pin bidirectional line
 				(at 5.08 5.08 180)
 				(length 2.54)
-				(name "MD33"
+				(name "MD62"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2006,7 +1862,7 @@
 			(pin bidirectional line
 				(at 5.08 2.54 180)
 				(length 2.54)
-				(name "MD32"
+				(name "MD63"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2024,7 +1880,7 @@
 			(pin output line
 				(at -22.86 22.86 0)
 				(length 2.54)
-				(name "DQS6#"
+				(name "DQS1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2042,7 +1898,7 @@
 			(pin bidirectional line
 				(at 5.08 -38.1 180)
 				(length 2.54)
-				(name "MD16"
+				(name "MD15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2060,7 +1916,7 @@
 			(pin output line
 				(at -22.86 17.78 0)
 				(length 2.54)
-				(name "DQS4#"
+				(name "DQS3#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2078,7 +1934,7 @@
 			(pin bidirectional line
 				(at 5.08 -73.66 180)
 				(length 2.54)
-				(name "MD2"
+				(name "MD29"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2096,7 +1952,7 @@
 			(pin bidirectional line
 				(at 5.08 -78.74 180)
 				(length 2.54)
-				(name "MD0"
+				(name "MD31"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2134,11 +1990,752 @@
 				)
 			)
 		)
+		(symbol "SM750GX000000-AC_3_0"
+			(unit_name "Display")
+			(pin input line
+				(at 21.59 35.56 180)
+				(length 2.54)
+				(name "IREF1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 38.1 180)
+				(length 2.54)
+				(name "R1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 27.94 0)
+				(length 2.54)
+				(name "FP_HSYNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 33.02 180)
+				(length 2.54)
+				(name "G1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 30.48 0)
+				(length 2.54)
+				(name "FP_VSYNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 30.48 180)
+				(length 2.54)
+				(name "B1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 25.4 0)
+				(length 2.54)
+				(name "FP_DISP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 21.59 25.4 180)
+				(length 2.54)
+				(name "IREF0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 17.78 0)
+				(length 2.54)
+				(name "FP1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 0 0)
+				(length 2.54)
+				(name "FP8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -10.16 0)
+				(length 2.54)
+				(name "FP12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -27.94 0)
+				(length 2.54)
+				(name "FP19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -35.56 0)
+				(length 2.54)
+				(name "FP22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 35.56 0)
+				(length 2.54)
+				(name "FPEN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 22.86 0)
+				(length 2.54)
+				(name "BIAS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 20.32 0)
+				(length 2.54)
+				(name "FP0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 10.16 0)
+				(length 2.54)
+				(name "FP4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 2.54 0)
+				(length 2.54)
+				(name "FP7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -7.62 0)
+				(length 2.54)
+				(name "FP11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -17.78 0)
+				(length 2.54)
+				(name "FP15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -25.4 0)
+				(length 2.54)
+				(name "FP18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -33.02 0)
+				(length 2.54)
+				(name "FP21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -38.1 0)
+				(length 2.54)
+				(name "FP23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 38.1 0)
+				(length 2.54)
+				(name "VDEN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 27.94 180)
+				(length 2.54)
+				(name "R0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 12.7 0)
+				(length 2.54)
+				(name "FP3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 5.08 0)
+				(length 2.54)
+				(name "FP6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -5.08 0)
+				(length 2.54)
+				(name "FP10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -15.24 0)
+				(length 2.54)
+				(name "FP14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -22.86 0)
+				(length 2.54)
+				(name "FP17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -30.48 0)
+				(length 2.54)
+				(name "FP20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 17.78 180)
+				(length 2.54)
+				(name "CRT_HSYNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 22.86 180)
+				(length 2.54)
+				(name "G0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 15.24 0)
+				(length 2.54)
+				(name "FP2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 7.62 0)
+				(length 2.54)
+				(name "FP5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -2.54 0)
+				(length 2.54)
+				(name "FP9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -12.7 0)
+				(length 2.54)
+				(name "FP13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 -20.32 0)
+				(length 2.54)
+				(name "FP16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -22.86 33.02 0)
+				(length 2.54)
+				(name "FPCLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 20.32 180)
+				(length 2.54)
+				(name "CRT_VSYNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 21.59 15.24 180)
+				(length 2.54)
+				(name "B0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SM750GX000000-AC_3_1"
 			(unit_name "Display")
 			(rectangle
-				(start -11.43 -1.27)
-				(end 0 -24.13)
+				(start -20.32 40.64)
+				(end 19.05 -40.64)
 				(stroke
 					(width 0)
 					(type default)
@@ -2147,25 +2744,334 @@
 					(type none)
 				)
 			)
-			(text "PCIe"
-				(at -3.556 -5.588 0)
+			(text "Display\n"
+				(at 2.794 -17.526 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 5.08 5.08)
 					)
 				)
 			)
-			(pin output line
-				(at -13.97 -3.81 0)
+		)
+		(symbol "SM750GX000000-AC_4_0"
+			(unit_name "GPIO / I2C")
+			(pin bidirectional line
+				(at -22.86 -30.48 0)
 				(length 2.54)
-				(name "TX+"
+				(name "GPIO4"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "A8"
+				(number "B18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -27.94 0)
+				(length 2.54)
+				(name "GPIO5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -40.64 0)
+				(length 2.54)
+				(name "GPIO0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -35.56 0)
+				(length 2.54)
+				(name "GPIO2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -25.4 0)
+				(length 2.54)
+				(name "GPIO6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -22.86 0)
+				(length 2.54)
+				(name "GPIO7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -20.32 0)
+				(length 2.54)
+				(name "GPIO8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -38.1 0)
+				(length 2.54)
+				(name "GPIO1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -33.02 0)
+				(length 2.54)
+				(name "GPIO3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -17.78 0)
+				(length 2.54)
+				(name "GPIO9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -15.24 0)
+				(length 2.54)
+				(name "GPIO10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -12.7 0)
+				(length 2.54)
+				(name "GPIO11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -10.16 0)
+				(length 2.54)
+				(name "GPIO12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -7.62 0)
+				(length 2.54)
+				(name "GPIO13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -5.08 0)
+				(length 2.54)
+				(name "GPIO14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 -2.54 0)
+				(length 2.54)
+				(name "GPIO15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 0 0)
+				(length 2.54)
+				(name "GPIO16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 2.54 0)
+				(length 2.54)
+				(name "GPIO17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2174,16 +3080,70 @@
 				)
 			)
 			(pin input line
-				(at -13.97 -8.89 0)
+				(at 2.54 35.56 180)
 				(length 2.54)
-				(name "RX+"
+				(name "VP_HREF"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "A10"
+				(number "F19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 5.08 0)
+				(length 2.54)
+				(name "GPIO18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "G16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 7.62 0)
+				(length 2.54)
+				(name "GPIO19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "G17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 10.16 0)
+				(length 2.54)
+				(name "GPIO20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "G18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2192,16 +3152,16 @@
 				)
 			)
 			(pin input line
-				(at -13.97 -13.97 0)
+				(at 2.54 38.1 180)
 				(length 2.54)
-				(name "REFCLK+"
+				(name "VP_VSYNC"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "A12"
+				(number "G19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2209,17 +3169,17 @@
 					)
 				)
 			)
-			(pin output line
-				(at -13.97 -6.35 0)
+			(pin bidirectional line
+				(at -22.86 12.7 0)
 				(length 2.54)
-				(name "TX-"
+				(name "GPIO21"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "B8"
+				(number "H17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2227,35 +3187,17 @@
 					)
 				)
 			)
-			(pin input line
-				(at -13.97 -11.43 0)
+			(pin bidirectional line
+				(at -22.86 15.24 0)
 				(length 2.54)
-				(name "RX-"
+				(name "GPIO22"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "B10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -16.51 0)
-				(length 2.54)
-				(name "REFCLK-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B12"
+				(number "H18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2264,16 +3206,16 @@
 				)
 			)
 			(pin input line
-				(at -13.97 -21.59 0)
+				(at 2.54 33.02 180)
 				(length 2.54)
-				(name "RST#"
+				(name "VP_CLK"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "C13"
+				(number "H19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2281,17 +3223,161 @@
 					)
 				)
 			)
-			(pin input line
-				(at -13.97 -19.05 0)
+			(pin bidirectional line
+				(at -22.86 17.78 0)
 				(length 2.54)
-				(name "REXT"
+				(name "GPIO23"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D11"
+				(number "J16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 20.32 0)
+				(length 2.54)
+				(name "GPIO24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 22.86 0)
+				(length 2.54)
+				(name "GPIO25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 25.4 0)
+				(length 2.54)
+				(name "GPIO26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 27.94 0)
+				(length 2.54)
+				(name "GPIO27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 30.48 0)
+				(length 2.54)
+				(name "GPIO28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 33.02 0)
+				(length 2.54)
+				(name "GPIO29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 35.56 0)
+				(length 2.54)
+				(name "GPIO30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -22.86 38.1 0)
+				(length 2.54)
+				(name "GPIO31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2303,8 +3389,8 @@
 		(symbol "SM750GX000000-AC_4_1"
 			(unit_name "GPIO / I2C")
 			(rectangle
-				(start -11.43 -1.27)
-				(end 0 -24.13)
+				(start -20.32 40.64)
+				(end 0 -41.91)
 				(stroke
 					(width 0)
 					(type default)
@@ -2313,43 +3399,28 @@
 					(type none)
 				)
 			)
-			(text "PCIe"
-				(at -3.556 -5.588 0)
+			(text "GPIO / I2C"
+				(at -6.096 -6.858 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
+		)
+		(symbol "SM750GX000000-AC_5_0"
+			(unit_name "Clock / Control")
 			(pin output line
-				(at -13.97 -3.81 0)
+				(at 13.97 -3.81 180)
 				(length 2.54)
-				(name "TX+"
+				(name "XTALOUT"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "A8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -8.89 0)
-				(length 2.54)
-				(name "RX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A10"
+				(number "A16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2360,50 +3431,14 @@
 			(pin input line
 				(at -13.97 -13.97 0)
 				(length 2.54)
-				(name "REFCLK+"
+				(name "XTALIN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "A12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 -6.35 0)
-				(length 2.54)
-				(name "TX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -11.43 0)
-				(length 2.54)
-				(name "RX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B10"
+				(number "A17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2414,32 +3449,14 @@
 			(pin input line
 				(at -13.97 -16.51 0)
 				(length 2.54)
-				(name "REFCLK-"
+				(name "TESTCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "B12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -21.59 0)
-				(length 2.54)
-				(name "RST#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C13"
+				(number "C14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2448,16 +3465,52 @@
 				)
 			)
 			(pin input line
-				(at -13.97 -19.05 0)
+				(at -13.97 -6.35 0)
 				(length 2.54)
-				(name "REXT"
+				(name "TEST1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D11"
+				(number "L17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -13.97 -3.81 0)
+				(length 2.54)
+				(name "TEST0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -13.97 -8.89 0)
+				(length 2.54)
+				(name "TEST2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2470,7 +3523,7 @@
 			(unit_name "Clock / Control")
 			(rectangle
 				(start -11.43 -1.27)
-				(end 0 -24.13)
+				(end 11.43 -19.05)
 				(stroke
 					(width 0)
 					(type default)
@@ -2479,155 +3532,11 @@
 					(type none)
 				)
 			)
-			(text "PCIe"
-				(at -3.556 -5.588 0)
+			(text "Clock / Control"
+				(at 2.794 -11.684 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 -3.81 0)
-				(length 2.54)
-				(name "TX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -8.89 0)
-				(length 2.54)
-				(name "RX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -13.97 0)
-				(length 2.54)
-				(name "REFCLK+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 -6.35 0)
-				(length 2.54)
-				(name "TX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -11.43 0)
-				(length 2.54)
-				(name "RX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -16.51 0)
-				(length 2.54)
-				(name "REFCLK-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -21.59 0)
-				(length 2.54)
-				(name "RST#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -19.05 0)
-				(length 2.54)
-				(name "REXT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "D11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
 					)
 				)
 			)
@@ -2650,150 +3559,6 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 -3.81 0)
-				(length 2.54)
-				(name "TX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -8.89 0)
-				(length 2.54)
-				(name "RX+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -13.97 0)
-				(length 2.54)
-				(name "REFCLK+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 -6.35 0)
-				(length 2.54)
-				(name "TX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -11.43 0)
-				(length 2.54)
-				(name "RX-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -16.51 0)
-				(length 2.54)
-				(name "REFCLK-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "B12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -21.59 0)
-				(length 2.54)
-				(name "RST#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 -19.05 0)
-				(length 2.54)
-				(name "REXT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "D11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
 					)
 				)
 			)
