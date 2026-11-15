@@ -450,7 +450,7 @@
 						)
 					)
 				)
-				(number "22"
+				(number "45"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -468,7 +468,7 @@
 						)
 					)
 				)
-				(number "23"
+				(number "44"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -486,7 +486,7 @@
 						)
 					)
 				)
-				(number "24"
+				(number "43"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -828,7 +828,7 @@
 						)
 					)
 				)
-				(number "43"
+				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -846,7 +846,7 @@
 						)
 					)
 				)
-				(number "44"
+				(number "23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -864,7 +864,7 @@
 						)
 					)
 				)
-				(number "45"
+				(number "22"
 					(effects
 						(font
 							(size 1.27 1.27)
