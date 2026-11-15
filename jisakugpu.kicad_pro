@@ -441,6 +441,10 @@
     [
       "c6ac2f9e-4e0d-4736-8cc7-51a73bb832cf",
       "VRAM"
+    ],
+    [
+      "82f14af0-a754-497a-8e1a-74e4e6f016ba",
+      "Power"
     ]
   ],
   "text_variables": {},

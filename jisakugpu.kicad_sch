@@ -6,6 +6,52 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 187.96 74.93)
+		(size 12.7 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "82f14af0-a754-497a-8e1a-74e4e6f016ba")
+		(property "Sheetname" "Power"
+			(at 187.96 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 187.96 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "jisakugpu"
+				(path "/366c7b53-965d-4351-b58d-b770b1c63c39"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 158.75 74.93)
 		(size 12.7 30.48)
 		(exclude_from_sim no)
