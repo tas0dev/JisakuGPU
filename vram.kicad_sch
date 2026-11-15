@@ -608,7 +608,7 @@
 							)
 						)
 					)
-					(number "22"
+					(number "45"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -626,7 +626,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "44"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -644,7 +644,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "43"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -986,7 +986,7 @@
 							)
 						)
 					)
-					(number "43"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1004,7 +1004,7 @@
 							)
 						)
 					)
-					(number "44"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1022,7 +1022,7 @@
 							)
 						)
 					)
-					(number "45"
+					(number "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12488,7 +12488,7 @@
 		(pin "30"
 			(uuid "8bb85989-211e-416f-a522-217c90225ea6")
 		)
-		(pin "24"
+		(pin "43"
 			(uuid "81b93991-5240-4f6c-b6b1-dc7f729f30ae")
 		)
 		(pin "27"
@@ -12503,7 +12503,7 @@
 		(pin "25"
 			(uuid "48071a06-4329-4505-bd23-b7f4273977d6")
 		)
-		(pin "22"
+		(pin "45"
 			(uuid "1a30819f-2fa5-408b-b1e6-b44237f8fc13")
 		)
 		(pin "20"
@@ -12524,7 +12524,7 @@
 		(pin "32"
 			(uuid "ffec9510-382f-4847-8baf-96e47799b9ba")
 		)
-		(pin "23"
+		(pin "44"
 			(uuid "8c958b6f-ed45-4525-b606-59ef3b04f919")
 		)
 		(pin "26"
@@ -12533,7 +12533,7 @@
 		(pin "18"
 			(uuid "ee786945-39c8-4970-b8e0-e18fd3481213")
 		)
-		(pin "44"
+		(pin "23"
 			(uuid "b9b93b2d-be00-4782-9032-26c972ee30a8")
 		)
 		(pin "58"
@@ -12563,7 +12563,7 @@
 		(pin "61"
 			(uuid "cf9e0768-be42-47fb-aa1c-b61b03a671e5")
 		)
-		(pin "45"
+		(pin "22"
 			(uuid "d6e04118-1320-4055-8fe6-74517fe2bdf7")
 		)
 		(pin "57"
@@ -12578,7 +12578,7 @@
 		(pin "59"
 			(uuid "c5fa1092-b593-4a9d-84b0-3d872b35a14a")
 		)
-		(pin "43"
+		(pin "24"
 			(uuid "3fe49dbc-772e-4446-b04a-8ca30cc95855")
 		)
 		(pin "42"
@@ -12829,7 +12829,7 @@
 		(pin "35"
 			(uuid "9591a714-c7a2-4971-87e7-064d1e51ee03")
 		)
-		(pin "24"
+		(pin "43"
 			(uuid "d868121c-b56c-482b-b0fe-7279b30e2c14")
 		)
 		(pin "17"
@@ -12841,7 +12841,7 @@
 		(pin "7"
 			(uuid "6eeb137d-4e0b-4599-bbcb-4418a9efc27e")
 		)
-		(pin "23"
+		(pin "44"
 			(uuid "66b28fdf-8d2b-4cbf-b01a-ff66bf34815a")
 		)
 		(pin "32"
@@ -12895,7 +12895,7 @@
 		(pin "18"
 			(uuid "fc7f9df6-181d-4fee-b9b7-19f5de6e63c3")
 		)
-		(pin "22"
+		(pin "45"
 			(uuid "d4d909ca-a6e6-48ce-a656-035e00a04d1d")
 		)
 		(pin "48"
@@ -12931,7 +12931,7 @@
 		(pin "58"
 			(uuid "1989afac-e489-438f-a614-6946052c7805")
 		)
-		(pin "45"
+		(pin "22"
 			(uuid "808b6205-c15c-4b6d-8578-fe5647663741")
 		)
 		(pin "46"
@@ -12946,7 +12946,7 @@
 		(pin "63"
 			(uuid "aee1f8b5-fd4e-4b3b-870b-c2f2161082d4")
 		)
-		(pin "44"
+		(pin "23"
 			(uuid "730f12ca-bcab-4e18-b71b-fb4220eda53e")
 		)
 		(pin "52"
@@ -12973,7 +12973,7 @@
 		(pin "38"
 			(uuid "8b52163d-60c1-4cfe-9a09-70b09f0260c3")
 		)
-		(pin "43"
+		(pin "24"
 			(uuid "d7cab94a-3a85-4502-bbdb-8d59293795d1")
 		)
 		(pin "66"
