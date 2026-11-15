@@ -437,6 +437,10 @@
     [
       "366c7b53-965d-4351-b58d-b770b1c63c39",
       "jisakugpu"
+    ],
+    [
+      "c6ac2f9e-4e0d-4736-8cc7-51a73bb832cf",
+      "VRAM"
     ]
   ],
   "text_variables": {},

@@ -5,6 +5,52 @@
 	(uuid "366c7b53-965d-4351-b58d-b770b1c63c39")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 158.75 74.93)
+		(size 12.7 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c6ac2f9e-4e0d-4736-8cc7-51a73bb832cf")
+		(property "Sheetname" "VRAM"
+			(at 158.75 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vram.kicad_sch"
+			(at 158.75 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "jisakugpu"
+				(path "/366c7b53-965d-4351-b58d-b770b1c63c39"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
