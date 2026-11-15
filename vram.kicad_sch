@@ -11529,6 +11529,16 @@
 		)
 		(uuid "5040b78a-6c9c-4d3f-b7d1-736dcf241405")
 	)
+	(label "GND"
+		(at 114.3 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50c26ffc-796d-4f2a-9a20-965ebd4f9e17")
+	)
 	(label "SCK+"
 		(at 187.96 92.71 0)
 		(effects
@@ -11979,6 +11989,16 @@
 		)
 		(uuid "906707ce-940d-4c93-a49a-5f0caf258252")
 	)
+	(label "2.5V"
+		(at 114.3 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "91ec78d9-00dd-4636-b097-7a078879898f")
+	)
 	(label "BA0"
 		(at 162.56 80.01 180)
 		(effects
@@ -12038,6 +12058,16 @@
 			(justify left bottom)
 		)
 		(uuid "ac4270df-c5e4-429a-8123-6eea43c1259f")
+	)
+	(label "DDR_VREF"
+		(at 114.3 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac5c9d8f-4193-43d4-89ba-65644025bf9e")
 	)
 	(label "MA12"
 		(at 194.31 82.55 180)
@@ -12528,6 +12558,78 @@
 			(justify right bottom)
 		)
 		(uuid "ff475352-e499-43e2-bcd7-2a9573bdb777")
+	)
+	(global_label "DDR_VREF"
+		(shape passive)
+		(at 114.3 27.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1886ee1e-d0bc-480e-8944-e22e71ce65d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.941 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "2.5V"
+		(shape passive)
+		(at 114.3 22.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "648e741a-5e2b-4aea-85fb-7f5995e11650")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.2024 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape passive)
+		(at 114.3 25.4 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7eef737e-16d6-4ac8-8766-2f3f4a93b3d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.4443 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "JisakuGPU:IS43R16160F-6TLI")
